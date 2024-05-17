@@ -58,7 +58,7 @@ The Raspberry Pi Pico, combined with CircuitPython, can be transformed into a Ru
    - Open the file named `payload.dd` on your `CIRCUITPY` drive.
    - Copy and paste the following Ducky Script into `payload.dd`:
 
-```plaintext
+```shell
 REM Title: Hacker Glitch
 REM Author: Faded (https://github.com/anonfaded)
 REM Description: Simulates a glitchy screen hijack, displaying ominous messages and actions to evoke a sense of hacker intrusion. Shows ASCII art and in the end opens a browser to show a local image.
