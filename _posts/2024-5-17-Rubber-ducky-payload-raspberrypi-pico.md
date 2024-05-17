@@ -209,11 +209,11 @@ This payload, titled "Hacker Glitch," simulates a glitchy screen hijack to evoke
    - The payload will automatically execute when the Pico is connected.
    - Ensure you are testing in a safe and controlled environment.
 
-#### Additional Resources
+## Additional Resources
 
 - For more payload examples, visit my [GitHub repository](https://github.com/anonfaded/payloads).
 
-#### Conclusion
+## Conclusion
 
 You've successfully turned your Raspberry Pi Pico into a Rubber Ducky! This tutorial covered the basics of setting up your device and running a sample payload. For more advanced payloads and further customization, explore the internet with `payload` keyword.
 
