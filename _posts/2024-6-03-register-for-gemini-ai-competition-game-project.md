@@ -12,7 +12,7 @@ comments: true
 
 Do you want to be among the first to experience our thrilling Adventure Survival 3D game? Don't miss out on the action – register now!
 
-Visit our [registration page](fadedhood.com/register) and sign up to receive exclusive updates, early access, and special offers. Be part of an epic gaming adventure that will keep you on the edge of your seat.
+Visit our and sign up to receive exclusive updates, early access, and special offers. Be part of an epic gaming adventure that will keep you on the edge of your seat.
 
 Spread the word and invite your friends to join in the excitement. The more, the merrier!
 
